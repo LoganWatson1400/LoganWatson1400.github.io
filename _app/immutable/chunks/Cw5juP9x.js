@@ -1,0 +1,1 @@
+import{Command as t}from"./U8a1tHAg.js";class n extends t{constructor(){super({name:"pwd",usage:"pwd",description:"Print the current path"})}execute({terminal:e}){return e.getPath()}}export{n as default};
