@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/CXN54F5k.js";import{p as o,a as p,d as e,u as s}from"../chunks/B8OzOt_y.js";import{i}from"../chunks/CQZB7ztI.js";import{p as m}from"../chunks/CozhcEaE.js";import{P as n}from"../chunks/CGoUphOG.js";function g(a,t){o(t,!1);let r=m(t,"data",8);i(),n(a,{get projects(){return e(r()),s(()=>r().projects)}}),p()}export{g as component};
