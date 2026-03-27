@@ -1,1 +1,0 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/BrGm3Tnc.js";import{p,a as r,d as s,u as i}from"../chunks/BGsezAUZ.js";import{i as e}from"../chunks/BL3PDA9l.js";import{p as m}from"../chunks/BgO3CJFy.js";import{S as l}from"../chunks/BXGJcq2x.js";function _(o,a){p(a,!1);let t=m(a,"data",8);e(),l(o,{get skills(){return s(t()),i(()=>t().skills)}}),r()}export{_ as component};
