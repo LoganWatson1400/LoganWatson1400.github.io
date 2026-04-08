@@ -1,1 +1,0 @@
-import{Command as e}from"./U8a1tHAg.js";import"./BTfgM28s.js";import"./D0iwhpLH.js";class c extends e{constructor(){super({name:"clear",usage:"clear, cls, cl",description:"Clears the terminal history"})}execute(){return"__CLEAR__"}}export{c as default};
