@@ -1,2 +1,0 @@
-import{Command as i}from"./U8a1tHAg.js";import{g as o,i as c,d}from"./DqQ4JbXG.js";class l extends i{constructor(){super({name:"ls",usage:"ls",description:"List files and directories at the current path"})}execute({terminal:t}){const s=o(t.pathStack);if(!s)return`ls: cannot read '${t.getPath()}'`;const e=[`${t.getPath()}:`,""];t.pathStack.length>0&&e.push(`  ${"../".padEnd(22)} Parent directory`);for(const[r,n]of Object.entries(s)){const a=c(r)?d(r)+"/":r;e.push(`  ${a.padEnd(22)} ${n?.description??""}`)}return e.join(`
-`)}}export{l as default};
