@@ -1,0 +1,1 @@
+class e{constructor({name:t,usage:n,description:i}){if(new.target===e)throw new Error("Command is abstract — extend it, don't instantiate it directly.");this.name=t,this.usage=n,this.description=i}async execute(t){throw new Error(`${this.name}.execute() is not implemented.`)}}export{e as Command};
