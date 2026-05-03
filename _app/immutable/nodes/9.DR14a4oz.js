@@ -1,1 +1,0 @@
-import{s as e,S as t}from"../chunks/DtvkLMXI.js";import"../chunks/DsnmJJEf.js";import"../chunks/B2aLZKKM.js";async function r(){return{skills:e}}const a=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));function i(o){t(o,{get skills(){return e}})}export{i as component,a as universal};
